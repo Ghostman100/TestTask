@@ -1,4 +1,4 @@
-**Я использовал Python 3.8**
+**Я использовал Python 3.8 и sqlite3**
 
 
 1) `pip install -r requirements.txt`
